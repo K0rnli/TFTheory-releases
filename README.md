@@ -1,2 +1,2 @@
-# TFTheory-releases
-Hosting TFTheory app versions
+# About this repo
+This repo is used to host public releases for TFTheory
