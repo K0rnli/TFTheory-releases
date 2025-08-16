@@ -36,5 +36,6 @@ TFTheory is a powerful desktop application built with Tauri (Rust + React) that 
 - **Global Shortcuts**: Replay controls with keyboard shortcuts
 - **Auto-Updates**: Automatic application updates
 
+---
 
 TFTheory was created under Riot Games' "Legal Jibber Jabber" policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project
