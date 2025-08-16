@@ -17,7 +17,7 @@ TFTheory is a powerful desktop application built with Tauri (Rust + React) that 
 ## ✨ Features
 
 ### 🎥 Recording & Playback
-<img width="2560" height="1023" alt="image" src="https://github.com/user-attachments/assets/7127b564-29c9-4af5-8f9e-cfeffc6af90d" />
+- <img width="2560" height="1023" alt="image" src="https://github.com/user-attachments/assets/7127b564-29c9-4af5-8f9e-cfeffc6af90d" />
 - **Automatic Game Recording**: Automatically record games when they start
 - **VOD Recording**: Video recording os the game (To be implemented)
 - **Advanced Playback**: Speed control, timeline scrubbing, and quick navigation
@@ -25,7 +25,7 @@ TFTheory is a powerful desktop application built with Tauri (Rust + React) that 
 - **Review Games In Queue**: Watching a replay doesn't interfere with queueing (automatically closes when a game matchmaking is done)
 
 ### 📋 Review
-<img width="1502" height="802" alt="image" src="https://github.com/user-attachments/assets/d4ad829b-0413-4841-b90e-cf998dd32816" />
+- <img width="1502" height="802" alt="image" src="https://github.com/user-attachments/assets/d4ad829b-0413-4841-b90e-cf998dd32816" />
 - **Replay Management**: Organize and manage recorded games with filtering and sorting
 
 ### 🔧 Technical Features
